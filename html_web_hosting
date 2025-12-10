@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cloud Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Cloud Project</h1>
+        <p>Hosted on Cloud Storage</p>
+    </header>
+
+    <section class="about">
+        <h2>About This Project</h2>
+        <p>
+            This is a static website hosted on cloud infrastructure using object storage and CDN.
+            It demonstrates cloud deployment, public access configuration, and basic web hosting.
+        </p>
+    </section>
+
+    <section class="details">
+        <h2>Technologies Used</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>Cloud Object Storage</li>
+            <li>Cloud CDN</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Deployed by: Your Name</p>
+    </footer>
+
+</body>
+</html>
